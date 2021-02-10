@@ -1,0 +1,16 @@
+G:\revature\denzyl-code\branches-tutorial\bin\Debug\net5.0\BranchesAndLoops.exe
+G:\revature\denzyl-code\branches-tutorial\bin\Debug\net5.0\BranchesAndLoops.deps.json
+G:\revature\denzyl-code\branches-tutorial\bin\Debug\net5.0\BranchesAndLoops.runtimeconfig.json
+G:\revature\denzyl-code\branches-tutorial\bin\Debug\net5.0\BranchesAndLoops.runtimeconfig.dev.json
+G:\revature\denzyl-code\branches-tutorial\bin\Debug\net5.0\BranchesAndLoops.dll
+G:\revature\denzyl-code\branches-tutorial\bin\Debug\net5.0\ref\BranchesAndLoops.dll
+G:\revature\denzyl-code\branches-tutorial\bin\Debug\net5.0\BranchesAndLoops.pdb
+G:\revature\denzyl-code\branches-tutorial\obj\Debug\net5.0\BranchesAndLoops.csprojAssemblyReference.cache
+G:\revature\denzyl-code\branches-tutorial\obj\Debug\net5.0\BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+G:\revature\denzyl-code\branches-tutorial\obj\Debug\net5.0\BranchesAndLoops.AssemblyInfoInputs.cache
+G:\revature\denzyl-code\branches-tutorial\obj\Debug\net5.0\BranchesAndLoops.AssemblyInfo.cs
+G:\revature\denzyl-code\branches-tutorial\obj\Debug\net5.0\BranchesAndLoops.csproj.CoreCompileInputs.cache
+G:\revature\denzyl-code\branches-tutorial\obj\Debug\net5.0\BranchesAndLoops.dll
+G:\revature\denzyl-code\branches-tutorial\obj\Debug\net5.0\ref\BranchesAndLoops.dll
+G:\revature\denzyl-code\branches-tutorial\obj\Debug\net5.0\BranchesAndLoops.pdb
+G:\revature\denzyl-code\branches-tutorial\obj\Debug\net5.0\BranchesAndLoops.genruntimeconfig.cache

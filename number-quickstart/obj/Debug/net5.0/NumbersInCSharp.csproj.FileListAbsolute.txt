@@ -1,0 +1,16 @@
+G:\revature\denzyl-code\number-quickstart\bin\Debug\net5.0\NumbersInCSharp.exe
+G:\revature\denzyl-code\number-quickstart\bin\Debug\net5.0\NumbersInCSharp.deps.json
+G:\revature\denzyl-code\number-quickstart\bin\Debug\net5.0\NumbersInCSharp.runtimeconfig.json
+G:\revature\denzyl-code\number-quickstart\bin\Debug\net5.0\NumbersInCSharp.runtimeconfig.dev.json
+G:\revature\denzyl-code\number-quickstart\bin\Debug\net5.0\NumbersInCSharp.dll
+G:\revature\denzyl-code\number-quickstart\bin\Debug\net5.0\ref\NumbersInCSharp.dll
+G:\revature\denzyl-code\number-quickstart\bin\Debug\net5.0\NumbersInCSharp.pdb
+G:\revature\denzyl-code\number-quickstart\obj\Debug\net5.0\NumbersInCSharp.csprojAssemblyReference.cache
+G:\revature\denzyl-code\number-quickstart\obj\Debug\net5.0\NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+G:\revature\denzyl-code\number-quickstart\obj\Debug\net5.0\NumbersInCSharp.AssemblyInfoInputs.cache
+G:\revature\denzyl-code\number-quickstart\obj\Debug\net5.0\NumbersInCSharp.AssemblyInfo.cs
+G:\revature\denzyl-code\number-quickstart\obj\Debug\net5.0\NumbersInCSharp.csproj.CoreCompileInputs.cache
+G:\revature\denzyl-code\number-quickstart\obj\Debug\net5.0\NumbersInCSharp.dll
+G:\revature\denzyl-code\number-quickstart\obj\Debug\net5.0\ref\NumbersInCSharp.dll
+G:\revature\denzyl-code\number-quickstart\obj\Debug\net5.0\NumbersInCSharp.pdb
+G:\revature\denzyl-code\number-quickstart\obj\Debug\net5.0\NumbersInCSharp.genruntimeconfig.cache
