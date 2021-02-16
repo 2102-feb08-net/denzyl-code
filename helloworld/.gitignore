@@ -1,5 +1,0 @@
-#each line specifies a pattern 
-#any file or folder in the repo matches any of these it will be ignored
-bin
-obj
-

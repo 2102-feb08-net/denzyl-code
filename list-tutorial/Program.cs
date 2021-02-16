@@ -11,21 +11,18 @@ namespace list_tutorial
 
             var fibonacciNumbers = new List<int> {1, 1};
 
-            var previous = fibonacciNumbers[fibonacciNumbers.Count -1];
-            var previous2 = fibonacciNumbers[fibonacciNumbers.Count -2];
-
-            
-            
-            for (int count = 0; count < 20;)
+            while (fibonacciNumbers.Count < 20)
             {
-                fibonacciNumbers.Add(previous + previous2);
-                Console.WriteLine($"{fibonacciNumbers[0]}");
-                count++;      
 
-                /* foreach (var item in fibonacciNumbers)
+                var previous = fibonacciNumbers[fibonacciNumbers.Count -1];
+                var previous2 = fibonacciNumbers[fibonacciNumbers.Count -2];
+
+                fibonacciNumbers.Add(previous + previous2);   
+
+                foreach (var item in fibonacciNumbers)
                 {
                     Console.WriteLine(item);
-                } */
+                }
             }
         }
         
